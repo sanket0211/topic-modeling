@@ -52,8 +52,8 @@ Use CreateDataForClassification.ipynb notebook for labelling the documents with 
 - We check the presence of cluster keywords in the documents. 
 - If more than 3 words are present in the document, then we assign that cluster name as relevant topic (label) to that document
 
-![Dataset snap shot after labelling](tfidf-cluster-visualization.png?raw=true "Dataset snap shot after labelling")
+![Dataset snap shot after labelling](LabelledDocsDatasetSnap.png?raw=true "Dataset snap shot after labelling")
 
 ## Relevant Topic Distribution
 
-![Relevant topic distribution after labelling](tfidf-cluster-visualization.png?raw=true "Relevant topic distribution after labelling")
+![Relevant topic distribution after labelling](RelevantTopicDistribution.png?raw=true "Relevant topic distribution after labelling")
