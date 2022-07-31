@@ -12,4 +12,6 @@ You can also use Classifier.ipynb jupyter notebook to step-by-step understand ho
 
 ## Results
 
-We get an F1 Score of 47.22%
+1. We get an F1 Score of 47.22%
+2. The inference time for ~1000 docs is 100ms.
+
