@@ -1,0 +1,15 @@
+gensim
+nltk
+matplotlib
+textblob
+spacy
+pyLDAvis
+scikit-multilearn
+# !python3 -m spacy download en_core_web_sm
+# nltk.download('averaged_perceptron_tagger')
+# nltk.download('brown')
+# nltk.download('punkt')
+# nltk.download('stopwords')
+# nltk.download('wordnet')
+# nltk.download('omw-1.4')
+#ast

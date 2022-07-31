@@ -1,238 +1,112 @@
 Cluster 0
- customer
- customer service
- service
- tyre
  excellent
- great
+ excellent service
+ service
+ price
+ excellent price
+ tyre
  good
- poor
+ recommend
+ use
  fitting
  garage
+ great
  time
- price
- issue
- day
- use
+ good price
+ competitive
 
 
 Cluster 1
- start
- finish
- start finish
- service
- process
- excellent
- easy
- use
- tyre
- experience
- great
- excellent service
- definitely
- fitting
- simple
-
-
-Cluster 2
  good
  good price
  price
  good service
  service
  tyre
+ service good
  price good
  fitting
- service good
  easy
  tyre good
  time
  garage
  choice
- local
+ fitter
+
+
+Cluster 2
+ easy
+ quick
+ quick easy
+ order
+ easy order
+ service
+ efficient
+ tyre
+ fitting
+ process
+ price
+ good
+ convenient
+ garage
+ book
 
 
 Cluster 3
- quick
  service
+ time
  efficient
- easy
- quick easy
- efficient service
+ fitting
  price
- friendly
- professional
- good
- tyre
+ used
  garage
- reliable
+ experience
+ customer
+ competitive
+ friendly
  recommend
- fantastic
+ helpful
+ tyre
+ good
 
 
 Cluster 4
- great service
- great
- service
- price
  tyre
- good
+ fitted
  garage
- easy
  time
- price great
- use
- recommend
- good price
- service good
  fitting
+ tyre fitted
+ day
+ car
+ fitter
+ good
+ new
+ price
+ delivered
+ service
+ ordered
 
 
 Cluster 5
- tyre
- garage
- time
- fitting
- fitted
- easy
- price
- day
- service
- fitter
- used
  local
- order
- tyre fitted
- car
+ local garage
+ garage
+ tyre
+ price
+ easy
+ good
+ fitted
+ fitting
+ service
+ use
+ great
+ choice
+ excellent
+ fit
 
 
 Cluster 6
- excellent
- excellent service
- service
- price
- tyre
- excellent price
- garage
- good
- fitting
- use
- recommend
- time
- competitive
- easy
- good price
-
-
-Cluster 7
- great
- great price
- price
- service
- service great
- tyre
- great service
- price great
- easy
- excellent
- garage
- fitting
- price easy
- local
- excellent service
-
-
-Cluster 8
- happy
- tyre
- service
- garage
- price
- good
- time
- fitting
- use
- fitted
- used
- easy
- great
- customer
- recommend
-
-
-Cluster 9
- value
- good value
- value money
- money
- good
- great value
- great
- service
- easy
- excellent
- tyre
- efficient
- fitting
- use
- choice
-
-
-Cluster 10
- straight
- tyre
- easy
- garage
- fitted
- service
- price
- process
- order
- good
- car
- easy order
- ordering
- great
- day
-
-
-Cluster 11
- hassle
- free
- hassle free
- service
- easy
- tyre
- price
- fitting
- great
- use
- time
- good
- experience
- excellent
- garage
-
-
-Cluster 12
- fast
- service
- efficient
- great
- price
- delivery
- efficient service
- friendly
- good
- tyre
- easy
- reliable
- fitting
- excellent
- use
-
-
-Cluster 13
  use
  easy use
  easy
@@ -250,21 +124,57 @@ Cluster 13
  good price
 
 
-Cluster 14
- simple
- process
- tyre
- use
- easy
+Cluster 7
+ best
+ best price
  price
- good
- fitting
- quick
- great
- time
- ordering
- good price
- garage
+ tyre
  service
+ easy
+ garage
+ fitting
+ local
+ price tyre
+ use
+ fitted
+ time
+ value
+ convenient
+
+
+Cluster 8
+ value
+ good value
+ value money
+ money
+ good
+ great value
+ great
+ service
+ easy
+ excellent
+ tyre
+ efficient
+ fitting
+ use
+ choice
+
+
+Cluster 9
+ great
+ great service
+ service
+ great price
+ price
+ service great
+ tyre
+ price great
+ easy
+ fitting
+ garage
+ use
+ good
+ time
+ fitter
 
 

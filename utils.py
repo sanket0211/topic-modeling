@@ -9,6 +9,7 @@ import operator
 from nltk.util import ngrams
 from nltk.stem import WordNetLemmatizer
 import spacy
+import gensim
 from scipy import spatial
 import ast
 
@@ -127,8 +128,6 @@ class Utils:
         return doc_label_binary_dict, unique_topics
 
 
-
-
     def plot_histogram(self, documents):
         document_len_frequency = {}
         for doc in documents:
@@ -165,6 +164,17 @@ class Utils:
         final = " ".join(final)
         return final
         
+    
+    def create_bigrams_trigrams(self, texts):
+        bigrams_phrases = gensim.models.Phrases(texts, min_count=5, threshold=50)
+        trigrams_phrases = gensim.models.Phrases(bigrams_phrases[texts], min_count=5, threshold=50)
+        bigram = gensim.models.phrases.Phraser(bigrams_phrases)
+        trigram = gensim.models.phrases.Phraser(trigrams_phrases)
+        data_bigrams = [bigram[doc] for doc in texts]
+        return data_bigrams, ([trigram[bigram[doc]] for doc in data_bigrams])
+    
+
+
     def tokenize(self, documents):
         final = []
         for doc in documents:
