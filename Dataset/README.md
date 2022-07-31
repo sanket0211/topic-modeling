@@ -44,3 +44,16 @@ Total no. of unique tokens 9832
 - We know that unigrams don't tell us much about context
 - bigrams/trigrams have some context with them. These are mainly some adj/adv combined with noun/verb which gives us more information. 
 - Hence, involving bigrams/trigrams in our topic clusters make more sense.
+
+## Labelling the documents with the relevant Topics
+
+Use CreateDataForClassification.ipynb notebook for labelling the documents with the relevant topics
+
+- We check the presence of cluster keywords in the documents. 
+- If more than 3 words are present in the document, then we assign that cluster name as relevant topic (label) to that document
+
+![Dataset snap shot after labelling](tfidf-cluster-visualization.png?raw=true "Dataset snap shot after labelling")
+
+## Relevant Topic Distribution
+
+![Relevant topic distribution after labelling](tfidf-cluster-visualization.png?raw=true "Relevant topic distribution after labelling")
