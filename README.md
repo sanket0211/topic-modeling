@@ -1,6 +1,7 @@
 ## topic-modeling
 
 1. Here we explore TfIdf, LDA methods for getting topic clusters.
+2. We use Binary Relevance method for multilabel classification problem.
 
 ## Installation
 
